@@ -1,0 +1,9 @@
+.env# Dependency directories
+node_modules/
+
+# Production build output
+/build
+/dist
+
+# dotenv environment variables
+.env
