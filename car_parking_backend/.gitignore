@@ -1,0 +1,9 @@
+# dotenv environment variables
+.env
+
+# Composer dependency directory
+/vendor/
+/composer.lock
+
+# Database files
+*.sql
